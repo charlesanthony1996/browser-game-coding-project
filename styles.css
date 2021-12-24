@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(45deg, #b38686, #f4e4e4);
+  height: 100%;
+  margin: 0;
+}
+
+#canvas {
+  background-color: #fff;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
